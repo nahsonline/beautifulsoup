@@ -1,7 +1,7 @@
 # beautifulsoup 🥣
 **beautifulsoup: an exploration of BBC GoodFood soup recipes**
 
-This repository contains the materials used to produce my BeautifulSoup Tableau dataviz, available here <>
+This repository contains the materials used to produce my BeautifulSoup Tableau dataviz, available <a href = 'https://public.tableau.com/views/Soup_17573453710310/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link'> here </a>
 
 ## Dependencies
 
