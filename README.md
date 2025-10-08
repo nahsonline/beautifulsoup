@@ -1,4 +1,4 @@
-# beautifulsoup
+# beautifulsoup 🥣
 **beautifulsoup: an exploration of BBC GoodFood soup recipes**
 
 This repository contains the materials used to produce my BeautifulSoup Tableau dataviz, available here <>
