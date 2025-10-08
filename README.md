@@ -18,6 +18,6 @@ Packages used in this project
 
 This directory contains:
 
--   [📁 soups.ipynb](/blob/main/soups.ipynb): Jupyter Notebook file
--   [📁 soup_clean.csv](/blob/main/soup_clean.csv): CSV file of soup recipes, cleaned
--   [📁 soup_byings.csv](/blob/main/soup_byings.csv): CSV file of soups, organised by ingredients
+-   [📁 soups.ipynb](/soups.ipynb): Jupyter Notebook file
+-   [📁 soup_clean.csv](/soup_clean.csv): CSV file of soup recipes, cleaned
+-   [📁 soup_byings.csv](/soup_byings.csv): CSV file of soups, organised by ingredients
